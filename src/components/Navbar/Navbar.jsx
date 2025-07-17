@@ -11,11 +11,11 @@ const Navbar = () => {
 
     return (
         <div className='navbar'>
-            <Link to='/'><img src={assets.logo} alt="" className="logo" /></Link>
+            <Link to='/energy-sharing-platform/'><img src={assets.logo} alt="" className="logo" /></Link>
 
             <div className="navbar-menu">
                 {province_list.map((item,index) =>{
-                    var param = "/"+ item.Province.toLowerCase().replace(" ","");
+                    var param = "/energy-sharing-platform/"+ item.Province.toLowerCase().replace(" ","");
                     var province = item.Province.toLowerCase().replace(" ","");
                     return(
                         <div key={index}>
