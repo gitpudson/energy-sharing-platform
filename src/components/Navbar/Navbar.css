@@ -1,12 +1,12 @@
 .navbar{
-    padding: 20px 0px;
+    padding: 1px 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .navbar .logo{
-    width: 150px;
+    width: 120px;
 }
 
 .navbar-menu{
@@ -14,7 +14,7 @@
     list-style: none;
     gap: 100px;
     color: #49557e;
-    font-size: 18px;
+    font-size: 25px;
 }
 
 .navbar-right{

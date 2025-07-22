@@ -1,0 +1,41 @@
+.village-menu-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0px;
+    text-align: center;
+    /* margin: 20px 0px; */
+    /* margin-top: 70px; */
+    /* overflow-x: scroll; */
+    
+}
+.village-menu-list-item{
+    /* display: flex;
+    flex-direction: row;
+    align-items: center; */
+
+    
+}
+.village-menu-list-item img:hover{
+    border: 3px solid tomato;
+    padding: 2px;
+}
+.village-menu-list-item img{
+    width: 3.5vw;
+    /* min-width: 50px; */
+    cursor: pointer;
+    border-radius: 20%;
+    transition: 0.2s;
+    margin-top: 15px;
+}
+.village-menu-list-item p{
+    font-size: 15px;
+    font-weight: 500;
+    /* margin-left: 10px;
+    margin-top: 15px; */
+}
+.village-menu-list-item .active{
+    border: 3px solid tomato;
+    padding: 2px;
+}
