@@ -1,0 +1,25 @@
+.table-container{
+    /* width: '800px';
+    height: '600px'; */
+
+    display: flex;
+  flex-direction: column;
+  margin: 50px;
+}
+
+/* .image img:hover{
+    border: 3px solid #34a9ecc4;
+    padding: 2px;
+}
+.image img{
+    width: 1.5vw;
+    cursor: pointer;
+    border-radius: 20%;
+    transition: 0.2s;
+
+} */
+.table{
+  /* border: 1px solid #afafaf; */
+  height: '100px';
+  margin: auto;
+}

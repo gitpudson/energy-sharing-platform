@@ -1,0 +1,2882 @@
+[
+        {
+            "Time": "1899-12-29T17:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T17:22:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.79,
+            "Iload": 3.79,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T17:27:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -1.2,
+            "Iload": 1.2,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T17:32:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T17:37:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T17:42:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.21,
+            "Iload": 3.21,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T17:47:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -0.59,
+            "Iload": 0.59,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T17:52:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.25,
+            "Iload": 4.25,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T17:57:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T18:02:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T18:07:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T18:12:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T18:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.44,
+            "Iload": 2.44,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T18:22:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T18:27:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -1.13,
+            "Iload": 1.13,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T18:32:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T18:37:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T18:42:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.03,
+            "Iload": 4.03,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T18:47:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T18:52:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.17,
+            "Iload": 3.17,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T18:57:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T19:02:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -1.27,
+            "Iload": 1.27,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T19:07:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T19:12:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.85,
+            "Iload": 4.85,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T19:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -1.87,
+            "Iload": 1.87,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T19:22:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T19:27:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.48,
+            "Iload": 2.48,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T19:32:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T19:37:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -0.65,
+            "Iload": 0.65,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T19:42:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -1.66,
+            "Iload": 1.66,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T19:47:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -1.9,
+            "Iload": 1.9,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T19:52:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.96,
+            "Iload": 2.96,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T19:57:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T20:02:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.99,
+            "Iload": 3.99,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T20:07:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.53,
+            "Iload": 4.53,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T20:12:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.65,
+            "Iload": 4.65,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T20:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T20:22:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T20:27:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T20:32:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T20:37:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T20:42:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T20:47:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.11,
+            "Iload": 2.11,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T20:52:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T20:57:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -1.13,
+            "Iload": 1.13,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T21:02:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -0.84,
+            "Iload": 0.84,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T21:07:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.98,
+            "Iload": 3.98,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T21:12:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T21:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T21:22:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.68,
+            "Iload": 3.68,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T21:27:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.97,
+            "Iload": 3.97,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T21:32:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T21:37:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T21:42:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T21:47:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.3,
+            "Iload": 3.3,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T21:52:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T21:57:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T22:02:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T22:07:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T22:12:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.37,
+            "Iload": 3.37,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T22:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.62,
+            "Iload": 2.62,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T22:22:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T22:27:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.92,
+            "Iload": 3.92,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T22:32:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.97,
+            "Iload": 3.97,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T22:37:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.85,
+            "Iload": 2.85,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T22:42:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -0.61,
+            "Iload": 0.61,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T22:47:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T22:52:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T22:57:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -1.91,
+            "Iload": 1.91,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T23:02:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.58,
+            "Iload": 4.58,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T23:07:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T23:12:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.9,
+            "Iload": 3.9,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T23:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T23:22:56.000Z",
+            "Vsolar": 1.43,
+            "Isolar": 1.68,
+            "Vbatt": 48,
+            "Ibatt": 0.05005,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T23:27:56.000Z",
+            "Vsolar": 2.68,
+            "Isolar": 2.73,
+            "Vbatt": 48,
+            "Ibatt": 0.152425,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T23:32:56.000Z",
+            "Vsolar": 4.42,
+            "Isolar": 5.16,
+            "Vbatt": 48,
+            "Ibatt": 0.47515,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T23:37:56.000Z",
+            "Vsolar": 6.22,
+            "Isolar": 5.85,
+            "Vbatt": 48,
+            "Ibatt": -3.38194,
+            "Iload": 4.14,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T23:42:56.000Z",
+            "Vsolar": 7.28,
+            "Isolar": 6.86,
+            "Vbatt": 48,
+            "Ibatt": -3.37957,
+            "Iload": 4.42,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T23:47:56.000Z",
+            "Vsolar": 9.15,
+            "Isolar": 8.35,
+            "Vbatt": 48,
+            "Ibatt": 0.251719,
+            "Iload": 1.34,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T23:52:56.000Z",
+            "Vsolar": 9.96,
+            "Isolar": 11.21,
+            "Vbatt": 48,
+            "Ibatt": -0.60393,
+            "Iload": 2.93,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-29T23:57:56.000Z",
+            "Vsolar": 12.15,
+            "Isolar": 10.8,
+            "Vbatt": 48,
+            "Ibatt": -1.79625,
+            "Iload": 4.53,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T00:02:56.000Z",
+            "Vsolar": 13.76,
+            "Isolar": 12.28,
+            "Vbatt": 48,
+            "Ibatt": 3.520267,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T00:07:56.000Z",
+            "Vsolar": 14.29,
+            "Isolar": 13.98,
+            "Vbatt": 48,
+            "Ibatt": 4.161963,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T00:12:56.000Z",
+            "Vsolar": 14.74,
+            "Isolar": 16.46,
+            "Vbatt": 48,
+            "Ibatt": 5.054592,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T00:17:56.000Z",
+            "Vsolar": 18.4,
+            "Isolar": 17.77,
+            "Vbatt": 48,
+            "Ibatt": 2.631833,
+            "Iload": 4.18,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T00:22:56.000Z",
+            "Vsolar": 18.38,
+            "Isolar": 22.02,
+            "Vbatt": 48,
+            "Ibatt": 7.901825,
+            "Iload": 0.53,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T00:27:56.000Z",
+            "Vsolar": 20.46,
+            "Isolar": 18.13,
+            "Vbatt": 48,
+            "Ibatt": 5.347913,
+            "Iload": 2.38,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T00:32:56.000Z",
+            "Vsolar": 21.23,
+            "Isolar": 19.97,
+            "Vbatt": 48,
+            "Ibatt": 8.832565,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T00:37:56.000Z",
+            "Vsolar": 22.12,
+            "Isolar": 21.12,
+            "Vbatt": 48,
+            "Ibatt": 9.7328,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T00:42:56.000Z",
+            "Vsolar": 23.74,
+            "Isolar": 24.5,
+            "Vbatt": 48,
+            "Ibatt": 12.11729,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T00:47:56.000Z",
+            "Vsolar": 24.49,
+            "Isolar": 28.46,
+            "Vbatt": 48,
+            "Ibatt": 12.57053,
+            "Iload": 1.95,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T00:52:56.000Z",
+            "Vsolar": 28.53,
+            "Isolar": 25.46,
+            "Vbatt": 48,
+            "Ibatt": 11.47279,
+            "Iload": 3.66,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T00:57:56.000Z",
+            "Vsolar": 30.13,
+            "Isolar": 31.82,
+            "Vbatt": 48,
+            "Ibatt": 19.97368,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T01:02:56.000Z",
+            "Vsolar": 31.38,
+            "Isolar": 31.29,
+            "Vbatt": 48,
+            "Ibatt": 15.62584,
+            "Iload": 4.83,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T01:07:56.000Z",
+            "Vsolar": 32.47,
+            "Isolar": 29.95,
+            "Vbatt": 48,
+            "Ibatt": 20.25993,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T01:12:56.000Z",
+            "Vsolar": 33.97,
+            "Isolar": 33.07,
+            "Vbatt": 48,
+            "Ibatt": 21.55391,
+            "Iload": 1.85,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T01:17:56.000Z",
+            "Vsolar": 34.35,
+            "Isolar": 30.7,
+            "Vbatt": 48,
+            "Ibatt": 21.96969,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T01:22:56.000Z",
+            "Vsolar": 34.37,
+            "Isolar": 34.4,
+            "Vbatt": 48,
+            "Ibatt": 24.63183,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T01:27:56.000Z",
+            "Vsolar": 38.29,
+            "Isolar": 37.56,
+            "Vbatt": 48,
+            "Ibatt": 27.20193,
+            "Iload": 2.76,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T01:32:56.000Z",
+            "Vsolar": 39.28,
+            "Isolar": 39.17,
+            "Vbatt": 48,
+            "Ibatt": 32.05412,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T01:37:56.000Z",
+            "Vsolar": 35.83,
+            "Isolar": 45.69,
+            "Vbatt": 48,
+            "Ibatt": 34.10568,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T01:42:56.000Z",
+            "Vsolar": 37.16,
+            "Isolar": 39.56,
+            "Vbatt": 48,
+            "Ibatt": 29.04603,
+            "Iload": 1.58,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T01:47:56.000Z",
+            "Vsolar": 43.77,
+            "Isolar": 40.02,
+            "Vbatt": 48,
+            "Ibatt": 36.49324,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T01:52:56.000Z",
+            "Vsolar": 44.27,
+            "Isolar": 40.44,
+            "Vbatt": 48,
+            "Ibatt": 32.35748,
+            "Iload": 4.94,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T01:57:56.000Z",
+            "Vsolar": 40.22,
+            "Isolar": 46.87,
+            "Vbatt": 48,
+            "Ibatt": 39.27315,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T02:02:56.000Z",
+            "Vsolar": 42.06,
+            "Isolar": 46.28,
+            "Vbatt": 48,
+            "Ibatt": 36.62285,
+            "Iload": 3.93,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T02:07:56.000Z",
+            "Vsolar": 40.88,
+            "Isolar": 45.6,
+            "Vbatt": 48,
+            "Ibatt": 38.836,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T02:12:56.000Z",
+            "Vsolar": 48.24,
+            "Isolar": 51.3,
+            "Vbatt": 48,
+            "Ibatt": 49.3965,
+            "Iload": 2.16,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T02:17:56.000Z",
+            "Vsolar": 46.34,
+            "Isolar": 53.09,
+            "Vbatt": 48,
+            "Ibatt": 47.90397,
+            "Iload": 3.35,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T02:22:56.000Z",
+            "Vsolar": 47.34,
+            "Isolar": 52.25,
+            "Vbatt": 48,
+            "Ibatt": 50.62156,
+            "Iload": 0.91,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T02:27:56.000Z",
+            "Vsolar": 47.02,
+            "Isolar": 52.26,
+            "Vbatt": 48,
+            "Ibatt": 49.25303,
+            "Iload": 1.94,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T02:32:56.000Z",
+            "Vsolar": 51.58,
+            "Isolar": 57.38,
+            "Vbatt": 48,
+            "Ibatt": 61.65959,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T02:37:56.000Z",
+            "Vsolar": 48.56,
+            "Isolar": 48.19,
+            "Vbatt": 48,
+            "Ibatt": 48.75222,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T02:42:56.000Z",
+            "Vsolar": 48.15,
+            "Isolar": 52.03,
+            "Vbatt": 48,
+            "Ibatt": 48.64259,
+            "Iload": 3.55,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T02:47:56.000Z",
+            "Vsolar": 53.23,
+            "Isolar": 62.53,
+            "Vbatt": 48,
+            "Ibatt": 69.34316,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T02:52:56.000Z",
+            "Vsolar": 52.3,
+            "Isolar": 59.44,
+            "Vbatt": 48,
+            "Ibatt": 63.24483,
+            "Iload": 1.52,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T02:57:56.000Z",
+            "Vsolar": 50.5,
+            "Isolar": 52.32,
+            "Vbatt": 48,
+            "Ibatt": 53.765,
+            "Iload": 1.28,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T03:02:56.000Z",
+            "Vsolar": 58.64,
+            "Isolar": 61.65,
+            "Vbatt": 48,
+            "Ibatt": 73.07575,
+            "Iload": 2.24,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T03:07:56.000Z",
+            "Vsolar": 57.91,
+            "Isolar": 57.22,
+            "Vbatt": 48,
+            "Ibatt": 67.91355,
+            "Iload": 1.12,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T03:12:56.000Z",
+            "Vsolar": 51.45,
+            "Isolar": 59.48,
+            "Vbatt": 48,
+            "Ibatt": 63.75513,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T03:17:56.000Z",
+            "Vsolar": 55.94,
+            "Isolar": 61.78,
+            "Vbatt": 48,
+            "Ibatt": 71.99944,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T03:22:56.000Z",
+            "Vsolar": 61.35,
+            "Isolar": 55.32,
+            "Vbatt": 48,
+            "Ibatt": 66.25588,
+            "Iload": 4.45,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T03:27:56.000Z",
+            "Vsolar": 59.31,
+            "Isolar": 57.63,
+            "Vbatt": 48,
+            "Ibatt": 71.20907,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T03:32:56.000Z",
+            "Vsolar": 64.52,
+            "Isolar": 68.28,
+            "Vbatt": 48,
+            "Ibatt": 87.5997,
+            "Iload": 4.18,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T03:37:56.000Z",
+            "Vsolar": 60.61,
+            "Isolar": 72.49,
+            "Vbatt": 48,
+            "Ibatt": 88.65373,
+            "Iload": 2.88,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T03:42:56.000Z",
+            "Vsolar": 61.16,
+            "Isolar": 68.39,
+            "Vbatt": 48,
+            "Ibatt": 87.14026,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T03:47:56.000Z",
+            "Vsolar": 60.14,
+            "Isolar": 71.4,
+            "Vbatt": 48,
+            "Ibatt": 89.45825,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T03:52:56.000Z",
+            "Vsolar": 66.28,
+            "Isolar": 67.79,
+            "Vbatt": 48,
+            "Ibatt": 89.05669,
+            "Iload": 4.55,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T03:57:56.000Z",
+            "Vsolar": 66.95,
+            "Isolar": 63.69,
+            "Vbatt": 48,
+            "Ibatt": 86.80428,
+            "Iload": 2.03,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T04:02:56.000Z",
+            "Vsolar": 63.3,
+            "Isolar": 64.44,
+            "Vbatt": 48,
+            "Ibatt": 84.98025,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T04:07:56.000Z",
+            "Vsolar": 62.33,
+            "Isolar": 75.13,
+            "Vbatt": 48,
+            "Ibatt": 93.01944,
+            "Iload": 4.54,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T04:12:56.000Z",
+            "Vsolar": 65.78,
+            "Isolar": 70.22,
+            "Vbatt": 48,
+            "Ibatt": 92.22066,
+            "Iload": 4.01,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T04:17:56.000Z",
+            "Vsolar": 68.53,
+            "Isolar": 68.84,
+            "Vbatt": 48,
+            "Ibatt": 97.40344,
+            "Iload": 0.88,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T04:22:56.000Z",
+            "Vsolar": 60.75,
+            "Isolar": 75.88,
+            "Vbatt": 48,
+            "Ibatt": 96.03563,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T04:27:56.000Z",
+            "Vsolar": 64.63,
+            "Isolar": 77.73,
+            "Vbatt": 48,
+            "Ibatt": 101.4302,
+            "Iload": 3.23,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T04:32:56.000Z",
+            "Vsolar": 65.45,
+            "Isolar": 67.14,
+            "Vbatt": 48,
+            "Ibatt": 91.54819,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T04:37:56.000Z",
+            "Vsolar": 69.15,
+            "Isolar": 69.84,
+            "Vbatt": 48,
+            "Ibatt": 100.6133,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T04:42:56.000Z",
+            "Vsolar": 64.08,
+            "Isolar": 67.1,
+            "Vbatt": 48,
+            "Ibatt": 89.0585,
+            "Iload": 0.52,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T04:47:56.000Z",
+            "Vsolar": 60.07,
+            "Isolar": 62.11,
+            "Vbatt": 48,
+            "Ibatt": 77.72808,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T04:52:56.000Z",
+            "Vsolar": 71.08,
+            "Isolar": 67.42,
+            "Vbatt": 48,
+            "Ibatt": 96.22778,
+            "Iload": 3.61,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T04:57:56.000Z",
+            "Vsolar": 62.41,
+            "Isolar": 64,
+            "Vbatt": 48,
+            "Ibatt": 81.70333,
+            "Iload": 1.51,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T05:02:56.000Z",
+            "Vsolar": 70.68,
+            "Isolar": 76.52,
+            "Vbatt": 48,
+            "Ibatt": 111.1057,
+            "Iload": 1.57,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T05:07:56.000Z",
+            "Vsolar": 69.03,
+            "Isolar": 65.53,
+            "Vbatt": 48,
+            "Ibatt": 94.24033,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T05:12:56.000Z",
+            "Vsolar": 67.1,
+            "Isolar": 66.18,
+            "Vbatt": 48,
+            "Ibatt": 89.09413,
+            "Iload": 3.42,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T05:17:56.000Z",
+            "Vsolar": 69.09,
+            "Isolar": 61.79,
+            "Vbatt": 48,
+            "Ibatt": 85.47898,
+            "Iload": 3.46,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T05:22:56.000Z",
+            "Vsolar": 64.69,
+            "Isolar": 76.94,
+            "Vbatt": 48,
+            "Ibatt": 102.7727,
+            "Iload": 0.92,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T05:27:56.000Z",
+            "Vsolar": 65.66,
+            "Isolar": 67.14,
+            "Vbatt": 48,
+            "Ibatt": 91.84193,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T05:32:56.000Z",
+            "Vsolar": 63.66,
+            "Isolar": 61.87,
+            "Vbatt": 48,
+            "Ibatt": 82.05509,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T05:37:56.000Z",
+            "Vsolar": 64.86,
+            "Isolar": 63.88,
+            "Vbatt": 48,
+            "Ibatt": 86.31785,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T05:42:56.000Z",
+            "Vsolar": 66.02,
+            "Isolar": 61.09,
+            "Vbatt": 48,
+            "Ibatt": 81.7542,
+            "Iload": 2.27,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T05:47:56.000Z",
+            "Vsolar": 61.76,
+            "Isolar": 78.73,
+            "Vbatt": 48,
+            "Ibatt": 97.95927,
+            "Iload": 3.34,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T05:52:56.000Z",
+            "Vsolar": 70.56,
+            "Isolar": 73.74,
+            "Vbatt": 48,
+            "Ibatt": 105.6378,
+            "Iload": 2.76,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T05:57:56.000Z",
+            "Vsolar": 68,
+            "Isolar": 75.47,
+            "Vbatt": 48,
+            "Ibatt": 104.1958,
+            "Iload": 2.72,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T06:02:56.000Z",
+            "Vsolar": 69.1,
+            "Isolar": 71.04,
+            "Vbatt": 48,
+            "Ibatt": 102.268,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T06:07:56.000Z",
+            "Vsolar": 65.48,
+            "Isolar": 72.42,
+            "Vbatt": 48,
+            "Ibatt": 97.03295,
+            "Iload": 1.76,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T06:12:56.000Z",
+            "Vsolar": 58.99,
+            "Isolar": 69.04,
+            "Vbatt": 48,
+            "Ibatt": 84.84728,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T06:17:56.000Z",
+            "Vsolar": 67.31,
+            "Isolar": 63.39,
+            "Vbatt": 48,
+            "Ibatt": 87.59127,
+            "Iload": 1.3,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T06:22:56.000Z",
+            "Vsolar": 66.47,
+            "Isolar": 68.53,
+            "Vbatt": 48,
+            "Ibatt": 90.10977,
+            "Iload": 4.79,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T06:27:56.000Z",
+            "Vsolar": 57.62,
+            "Isolar": 74.03,
+            "Vbatt": 48,
+            "Ibatt": 86.69685,
+            "Iload": 2.17,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T06:32:56.000Z",
+            "Vsolar": 65.64,
+            "Isolar": 57.28,
+            "Vbatt": 48,
+            "Ibatt": 78.3304,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T06:37:56.000Z",
+            "Vsolar": 57.4,
+            "Isolar": 57.2,
+            "Vbatt": 48,
+            "Ibatt": 65.97167,
+            "Iload": 2.43,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T06:42:56.000Z",
+            "Vsolar": 56.28,
+            "Isolar": 63.82,
+            "Vbatt": 48,
+            "Ibatt": 69.98895,
+            "Iload": 4.84,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T06:47:56.000Z",
+            "Vsolar": 65.72,
+            "Isolar": 60.22,
+            "Vbatt": 48,
+            "Ibatt": 80.62122,
+            "Iload": 1.83,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T06:52:56.000Z",
+            "Vsolar": 65.69,
+            "Isolar": 71.42,
+            "Vbatt": 48,
+            "Ibatt": 97.74125,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T06:57:56.000Z",
+            "Vsolar": 58.64,
+            "Isolar": 70.85,
+            "Vbatt": 48,
+            "Ibatt": 84.62508,
+            "Iload": 1.93,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T07:02:56.000Z",
+            "Vsolar": 58.7,
+            "Isolar": 60.46,
+            "Vbatt": 48,
+            "Ibatt": 73.93754,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T07:07:56.000Z",
+            "Vsolar": 58.02,
+            "Isolar": 57.93,
+            "Vbatt": 48,
+            "Ibatt": 65.31289,
+            "Iload": 4.71,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T07:12:56.000Z",
+            "Vsolar": 60.75,
+            "Isolar": 55.97,
+            "Vbatt": 48,
+            "Ibatt": 67.76703,
+            "Iload": 3.07,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T07:17:56.000Z",
+            "Vsolar": 58.14,
+            "Isolar": 53.79,
+            "Vbatt": 48,
+            "Ibatt": 65.15314,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T07:22:56.000Z",
+            "Vsolar": 57.89,
+            "Isolar": 55.81,
+            "Vbatt": 48,
+            "Ibatt": 62.34919,
+            "Iload": 4.96,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T07:27:56.000Z",
+            "Vsolar": 58.25,
+            "Isolar": 55.66,
+            "Vbatt": 48,
+            "Ibatt": 67.54573,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T07:32:56.000Z",
+            "Vsolar": 59.75,
+            "Isolar": 55.35,
+            "Vbatt": 48,
+            "Ibatt": 64.44922,
+            "Iload": 4.45,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T07:37:56.000Z",
+            "Vsolar": 52.8,
+            "Isolar": 55.75,
+            "Vbatt": 48,
+            "Ibatt": 57.685,
+            "Iload": 3.64,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T07:42:56.000Z",
+            "Vsolar": 57.63,
+            "Isolar": 60.21,
+            "Vbatt": 48,
+            "Ibatt": 70.16963,
+            "Iload": 2.12,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T07:47:56.000Z",
+            "Vsolar": 50.48,
+            "Isolar": 58.3,
+            "Vbatt": 48,
+            "Ibatt": 61.31217,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T07:52:56.000Z",
+            "Vsolar": 54.85,
+            "Isolar": 58.18,
+            "Vbatt": 48,
+            "Ibatt": 62.33277,
+            "Iload": 4.15,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T07:57:56.000Z",
+            "Vsolar": 48.83,
+            "Isolar": 51.22,
+            "Vbatt": 48,
+            "Ibatt": 47.49568,
+            "Iload": 4.61,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T08:02:56.000Z",
+            "Vsolar": 45.19,
+            "Isolar": 54.83,
+            "Vbatt": 48,
+            "Ibatt": 48.86016,
+            "Iload": 2.76,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T08:07:56.000Z",
+            "Vsolar": 51.81,
+            "Isolar": 54.26,
+            "Vbatt": 48,
+            "Ibatt": 55.14689,
+            "Iload": 3.42,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T08:12:56.000Z",
+            "Vsolar": 47.51,
+            "Isolar": 54.72,
+            "Vbatt": 48,
+            "Ibatt": 50.0814,
+            "Iload": 4.08,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T08:17:56.000Z",
+            "Vsolar": 46.39,
+            "Isolar": 51.76,
+            "Vbatt": 48,
+            "Ibatt": 48.00388,
+            "Iload": 2.02,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T08:22:56.000Z",
+            "Vsolar": 48.02,
+            "Isolar": 52.49,
+            "Vbatt": 48,
+            "Ibatt": 52.51187,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T08:27:56.000Z",
+            "Vsolar": 46.13,
+            "Isolar": 52.62,
+            "Vbatt": 48,
+            "Ibatt": 50.57001,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T08:32:56.000Z",
+            "Vsolar": 42.06,
+            "Isolar": 44.23,
+            "Vbatt": 48,
+            "Ibatt": 38.09654,
+            "Iload": 0.66,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T08:37:56.000Z",
+            "Vsolar": 43.58,
+            "Isolar": 45.38,
+            "Vbatt": 48,
+            "Ibatt": 38.26126,
+            "Iload": 2.94,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T08:42:56.000Z",
+            "Vsolar": 42.61,
+            "Isolar": 42.51,
+            "Vbatt": 48,
+            "Ibatt": 37.73648,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T08:47:56.000Z",
+            "Vsolar": 38.25,
+            "Isolar": 45.26,
+            "Vbatt": 48,
+            "Ibatt": 35.42656,
+            "Iload": 0.64,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T08:52:56.000Z",
+            "Vsolar": 41,
+            "Isolar": 37.56,
+            "Vbatt": 48,
+            "Ibatt": 32.0825,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T08:57:56.000Z",
+            "Vsolar": 41.24,
+            "Isolar": 45.03,
+            "Vbatt": 48,
+            "Ibatt": 36.56828,
+            "Iload": 2.12,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T09:02:56.000Z",
+            "Vsolar": 36.25,
+            "Isolar": 41.15,
+            "Vbatt": 48,
+            "Ibatt": 31.07682,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T09:07:56.000Z",
+            "Vsolar": 36.62,
+            "Isolar": 40.36,
+            "Vbatt": 48,
+            "Ibatt": 26.83132,
+            "Iload": 3.96,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T09:12:56.000Z",
+            "Vsolar": 31.16,
+            "Isolar": 38.7,
+            "Vbatt": 48,
+            "Ibatt": 25.12275,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T09:17:56.000Z",
+            "Vsolar": 31.65,
+            "Isolar": 34.79,
+            "Vbatt": 48,
+            "Ibatt": 22.05966,
+            "Iload": 0.88,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T09:22:56.000Z",
+            "Vsolar": 30.62,
+            "Isolar": 32.05,
+            "Vbatt": 48,
+            "Ibatt": 20.44523,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T09:27:56.000Z",
+            "Vsolar": 31.96,
+            "Isolar": 36.62,
+            "Vbatt": 48,
+            "Ibatt": 21.45282,
+            "Iload": 2.93,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T09:32:56.000Z",
+            "Vsolar": 29.85,
+            "Isolar": 26.76,
+            "Vbatt": 48,
+            "Ibatt": 12.87138,
+            "Iload": 3.77,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T09:37:56.000Z",
+            "Vsolar": 27.29,
+            "Isolar": 26.99,
+            "Vbatt": 48,
+            "Ibatt": 12.52494,
+            "Iload": 2.82,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T09:42:56.000Z",
+            "Vsolar": 27.09,
+            "Isolar": 30.68,
+            "Vbatt": 48,
+            "Ibatt": 17.31503,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T09:47:56.000Z",
+            "Vsolar": 26.73,
+            "Isolar": 27.41,
+            "Vbatt": 48,
+            "Ibatt": 13.54394,
+            "Iload": 1.72,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T09:52:56.000Z",
+            "Vsolar": 21.87,
+            "Isolar": 24.49,
+            "Vbatt": 48,
+            "Ibatt": 10.30826,
+            "Iload": 0.85,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T09:57:56.000Z",
+            "Vsolar": 21.93,
+            "Isolar": 23.01,
+            "Vbatt": 48,
+            "Ibatt": 10.51269,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T10:02:56.000Z",
+            "Vsolar": 21.21,
+            "Isolar": 21.7,
+            "Vbatt": 48,
+            "Ibatt": 5.328688,
+            "Iload": 4.26,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T10:07:56.000Z",
+            "Vsolar": 19.74,
+            "Isolar": 23.1,
+            "Vbatt": 48,
+            "Ibatt": 7.159875,
+            "Iload": 2.34,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T10:12:56.000Z",
+            "Vsolar": 18.14,
+            "Isolar": 20.94,
+            "Vbatt": 48,
+            "Ibatt": 7.913575,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T10:17:56.000Z",
+            "Vsolar": 18.09,
+            "Isolar": 18.21,
+            "Vbatt": 48,
+            "Ibatt": 6.862894,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T10:22:56.000Z",
+            "Vsolar": 14.85,
+            "Isolar": 15.64,
+            "Vbatt": 48,
+            "Ibatt": 4.838625,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T10:27:56.000Z",
+            "Vsolar": 15.19,
+            "Isolar": 16.75,
+            "Vbatt": 48,
+            "Ibatt": 1.580677,
+            "Iload": 3.72,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T10:32:56.000Z",
+            "Vsolar": 12.49,
+            "Isolar": 14.79,
+            "Vbatt": 48,
+            "Ibatt": 2.088481,
+            "Iload": 1.76,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T10:37:56.000Z",
+            "Vsolar": 12.24,
+            "Isolar": 10.71,
+            "Vbatt": 48,
+            "Ibatt": -1.08895,
+            "Iload": 3.82,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T10:42:56.000Z",
+            "Vsolar": 9.44,
+            "Isolar": 11.91,
+            "Vbatt": 48,
+            "Ibatt": -0.9077,
+            "Iload": 3.25,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T10:47:56.000Z",
+            "Vsolar": 8.13,
+            "Isolar": 8.04,
+            "Vbatt": 48,
+            "Ibatt": -0.24823,
+            "Iload": 1.61,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T10:52:56.000Z",
+            "Vsolar": 7.27,
+            "Isolar": 8.68,
+            "Vbatt": 48,
+            "Ibatt": 1.314658,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T10:57:56.000Z",
+            "Vsolar": 5.54,
+            "Isolar": 6.78,
+            "Vbatt": 48,
+            "Ibatt": 0.222525,
+            "Iload": 0.56,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T11:02:56.000Z",
+            "Vsolar": 4.3,
+            "Isolar": 4.89,
+            "Vbatt": 48,
+            "Ibatt": 0.438063,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T11:07:56.000Z",
+            "Vsolar": 2.94,
+            "Isolar": 3.26,
+            "Vbatt": 48,
+            "Ibatt": 0.199675,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T11:12:56.000Z",
+            "Vsolar": 1.5,
+            "Isolar": 1.54,
+            "Vbatt": 48,
+            "Ibatt": 0.048125,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T11:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.67,
+            "Iload": 3.67,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T11:22:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -0.94,
+            "Iload": 0.94,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T11:27:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.63,
+            "Iload": 2.63,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T11:32:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T11:37:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.29,
+            "Iload": 2.29,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T11:42:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.36,
+            "Iload": 3.36,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T11:47:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T11:52:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T11:57:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.76,
+            "Iload": 2.76,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T12:02:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.46,
+            "Iload": 3.46,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T12:07:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T12:12:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T12:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -0.62,
+            "Iload": 0.62,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T12:22:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.73,
+            "Iload": 4.73,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T12:27:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.25,
+            "Iload": 2.25,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T12:32:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.56,
+            "Iload": 2.56,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T12:37:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.74,
+            "Iload": 4.74,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T12:42:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T12:47:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.57,
+            "Iload": 4.57,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T12:52:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T12:57:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T13:02:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T13:07:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T13:12:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T13:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -0.82,
+            "Iload": 0.82,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T13:22:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T13:27:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -0.6,
+            "Iload": 0.6,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T13:32:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -1.77,
+            "Iload": 1.77,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T13:37:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T13:42:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.33,
+            "Iload": 3.33,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T13:47:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.81,
+            "Iload": 3.81,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T13:52:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -1.77,
+            "Iload": 1.77,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T13:57:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T14:02:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.13,
+            "Iload": 4.13,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T14:07:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.36,
+            "Iload": 2.36,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T14:12:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T14:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.03,
+            "Iload": 2.03,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T14:22:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.36,
+            "Iload": 4.36,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T14:27:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.88,
+            "Iload": 3.88,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T14:32:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -0.96,
+            "Iload": 0.96,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T14:37:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.77,
+            "Iload": 2.77,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T14:42:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -1.94,
+            "Iload": 1.94,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T14:47:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.25,
+            "Iload": 2.25,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T14:52:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T14:57:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -0.91,
+            "Iload": 0.91,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T15:02:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T15:07:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.78,
+            "Iload": 4.78,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T15:12:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.34,
+            "Iload": 3.34,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T15:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -1.82,
+            "Iload": 1.82,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T15:22:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T15:27:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.89,
+            "Iload": 3.89,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T15:32:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.05,
+            "Iload": 4.05,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T15:37:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T15:42:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -0.76,
+            "Iload": 0.76,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T15:47:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.49,
+            "Iload": 2.49,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T15:52:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.08,
+            "Iload": 2.08,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T15:57:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T16:02:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T16:07:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.28,
+            "Iload": 3.28,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T16:12:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T16:17:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T16:22:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -0.83,
+            "Iload": 0.83,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T16:27:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.68,
+            "Iload": 3.68,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T16:32:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T16:37:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T16:42:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -2.18,
+            "Iload": 2.18,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T16:47:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T16:52:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -4.76,
+            "Iload": 4.76,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T16:57:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.89,
+            "Iload": 3.89,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T17:02:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T17:07:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": 0,
+            "Iload": 0,
+            "Vac": "",
+            "Iac": ""
+        },
+        {
+            "Time": "1899-12-30T17:12:56.000Z",
+            "Vsolar": 0,
+            "Isolar": 0,
+            "Vbatt": 48,
+            "Ibatt": -3.01,
+            "Iload": 3.01,
+            "Vac": "",
+            "Iac": ""
+        }
+]

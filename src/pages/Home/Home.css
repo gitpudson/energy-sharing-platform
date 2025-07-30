@@ -5,7 +5,7 @@
   min-height: 100vh;
   flex-direction: row;
   /* background-color: DodgerBlue; */
-  border: 1px solid #1a0af7;
+  /* border: 1px solid #1a0af7; */
 }
 .flex-home-sidebar {
   /* background-color: #f1f1f1; */
@@ -20,8 +20,9 @@
 .flex-home-body {
   /* background-color: #f1f1f1; */
   flex: 1;
-  margin: 10px;
-  text-align: center;
+  /* height: 100px; */
+  /* margin: 20px;
+  text-align: center; */
   /* line-height: 75px; */
   /* font-size: 30px; */
   /* border: 1px solid #1a0af7; */

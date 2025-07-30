@@ -3,7 +3,6 @@ import './Home.css'
 import Sidebar from '../../components/Sidebar/Sidebar'
 import Body from '../Body/Body'
 import { AppContext } from '../../Context/AppContext'
-import Sidebar2 from '../../components/Sidebar2/Sidebar2'
 
 const Home = () => {
   const { menu_province,menu_Building } = useContext(AppContext);

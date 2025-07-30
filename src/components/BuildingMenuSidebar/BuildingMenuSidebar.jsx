@@ -5,12 +5,12 @@ import { assets } from '../../assets/assets'
 
 const BuildingMenuSidebar = () => {
 
-    const { all_province_list,menu_province,menu_village,setMenuBuilding,menu_Building,setMenuSystem } = useContext(AppContext);
+    const { all_province_list,menu_province,menu_village,setMenuBuilding,menu_Building,setMenuSystem,setInputdataList } = useContext(AppContext);
 
     const resetMenu =  (b) => {
         setMenuBuilding(prev => prev === b.split('|')[2] ? "All" : b.split('|')[2])
         setMenuSystem("All");
-
+        setInputdataList([]);
     }
 
     return (

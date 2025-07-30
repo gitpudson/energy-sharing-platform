@@ -9,10 +9,12 @@ const AppContextProvider = (props) => {
     const [menu_village, setMenuVillage] = useState("All");
     const [menu_Building, setMenuBuilding] = useState("All");
     const [menu_System, setMenuSystem] = useState("All");
+    const [isLoading,setIsLoading] = useState(true)
 
     const url_parameter = `/energy-sharing-platform/${menu_province}`;
     const [province_list, setProvinceList] = useState([]);
     const [all_province_list, setAllProvinceList] = useState([]);
+    const [input_data_list, setInputdataList] = useState([]);
     const [village_list, setVillageList] = useState([]);
     const [new_village_list, setNewVillageList] = useState([]);
     const [system_list, setSystemList] = useState([]);
@@ -27,6 +29,7 @@ const AppContextProvider = (props) => {
             }
         }
 
+        setIsLoading(true)
         const response = await axios.post(`${url_api_backend}`, post,
             {
                 headers: {
@@ -38,6 +41,7 @@ const AppContextProvider = (props) => {
 
         if (response.data.success) {
             setProvinceList(response.data.data);
+            // setIsLoading(false)
             // console.log(response.data.data);
         }
 
@@ -51,6 +55,7 @@ const AppContextProvider = (props) => {
             }
         }
 
+        setIsLoading(true)
         const response = await axios.post(`${url_api_backend}`, post,
             {
                 headers: {
@@ -62,6 +67,7 @@ const AppContextProvider = (props) => {
 
         if (response.data.success) {
             setAllProvinceList(response.data.data);
+            setIsLoading(false)
             // console.log(response.data.data);
         }
 
@@ -176,23 +182,89 @@ const AppContextProvider = (props) => {
 
     }
 
+    const fetInputData = async (number_of_systems,spreadsheet_id) => {
+        const post = {
+            function: 'getInputData',
+            payload: {
+                number_of_systems:number_of_systems,
+                spreadsheet_id:spreadsheet_id
+            }
+        }
+
+
+        setIsLoading(true);
+        setInputdataList([]);
+        const response = await axios.post(`${url_api_backend}`, post,
+            {
+                headers: {
+                    'Content-Type': 'text/plain',
+                },
+                mode: "no-cors"
+            }
+        )
+
+        if (response.data.success) {
+            setInputdataList(response.data.data);
+            setIsLoading(false);
+            console.log(response.data.data);
+        }
+
+    }
 
     useEffect(() => {
          
+        // async function loadData(){   
+        //     await fetAllProvince();                  
+              
+        // }
+
+        // loadData();
+        fetAllProvince();   
+       
+    },[])
+
+    // useEffect(() => {
+         
+    //     async function loadData(){   
+    //         await fetInputData(3,"1tXBCCt_rv6lxYgStNBUn4EuP73hTKWKq4j5TRjYLhDk");                  
+              
+    //     }
+
+    //     loadData();
+       
+    // },[])
+
+    /*
+    useEffect(() => {
         async function loadData(){   
-            // await fetProvince();
-            await fetAllProvince();                  
+            await fetInputData(3,"1tXBCCt_rv6lxYgStNBUn4EuP73hTKWKq4j5TRjYLhDk");                  
               
         }
 
-        loadData();
-       
+        const timer = setInterval(() => {
+            // setSeconds(prevSeconds => prevSeconds + 1); // Or decrement for a countdown
+            loadData();
+            
+        }, 10000); // Update every 1000 milliseconds (1 second)
+
+        // Clean up the interval when the component unmounts or dependencies change
+        // return () => clearInterval(timer);
+    }, []);
+    */
+
+    useEffect(() =>{
+        // const dateString = "1899-12-29T17:22:56.000Z"; // ISO 8601 format 2023-11-17T10:30:00Z 
+        // const dateObject = new Date(dateString);
+
+        // console.log(dateObject); // Output: Fri Nov 17 2023 15:30:00 GMT+0500 (Pakistan Standard Time) (or similar, depending on your locale)
+        // console.log(typeof dateObject); // Output: object
     },[])
 
 
     const contextValue = {
         url_api_backend,
-        setMenuProvince,
+        isLoading,
+        setMenuProvince,      
         menu_province,
         menu_village, 
         setMenuVillage,
@@ -207,6 +279,9 @@ const AppContextProvider = (props) => {
         system_list,
         fetSystem,
         all_province_list,
+        fetInputData,
+        input_data_list,
+        setInputdataList
 
     }
 

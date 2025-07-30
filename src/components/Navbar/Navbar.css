@@ -92,6 +92,9 @@
 .nav-profile-dropdown li:hover{
     color: tomato;
 }
+.loading{
+    width: 40px;
+}
 
 @media (max-width:1050px){
     .navbar .logo{

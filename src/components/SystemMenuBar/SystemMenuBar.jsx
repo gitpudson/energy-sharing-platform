@@ -1,18 +1,33 @@
-import React,{ useContext,useEffect } from 'react'
+import React,{ useContext,useEffect,useState } from 'react'
 import { AppContext } from '../../Context/AppContext';
 import './SystemMenuBar.css'
 import { assets } from '../../assets/assets'
+import axios from 'axios';
 
 const SystemMenuBar = () => {
-    const { all_province_list,menu_province,menu_Building,menu_System, setMenuSystem } = useContext(AppContext);
+    const { all_province_list,menu_province,menu_Building,menu_System, setMenuSystem,fetInputData,input_data_list } = useContext(AppContext);
+
+    const getInputData =  (number_of_systems,spreadsheet_id,system) => {
+        console.log(menu_System);
+        setMenuSystem(prev => prev === system.split('|')[1] ? "All" : system.split('|')[1]);
+        
+        // if (menu_System !== "All") {
+        //      fetInputData(number_of_systems,spreadsheet_id);
+        //     //  console.log(menu_System);
+        // }
+
+        fetInputData(number_of_systems,spreadsheet_id);
+       
+        // console.log("getInputData");
+        console.log(input_data_list);
+       
+        
+    }
+
 
     useEffect(() => {
-        console.log("BuildingNickname");
-        // console.log(BuildingNickname);
-        // console.log(system_list);
-
         // async function loadData(){   
-        // await fetSystem(BuildingNickname);      
+        // await fetInputData(3,"1jvpGR2LA0QGnm1riPzFTyz8x1NJnUxLiSmYGg1ys_i4");      
             
         // }
 
@@ -21,9 +36,22 @@ const SystemMenuBar = () => {
     },[])
 
     return (
+          <>
         <div className="system-menu-list">
            {
-            all_province_list.filter(l=>l.Province == menu_province).map((item,index) =>{        
+            all_province_list.filter(l=>l.Province == menu_province).map((item,index) =>{  
+
+                //Get Number Of System
+                let number_of_systems =  item.System.filter(s=>s.includes(menu_Building)).map((s)=>{                      
+                })
+
+                //Get Speadsheet ID
+                let spreadsheet_id = item.Speadsheet_ID.filter(s=>s.includes(menu_Building)).map((s)=>{
+                    return(
+                        s.split("|")[1]
+                    )
+                })
+
                 return(
                     item.System.filter(s=>s.includes(menu_Building)).map((s)=>{
                         /* json System
@@ -41,8 +69,9 @@ const SystemMenuBar = () => {
                         */
                         return(
                         <div key={index} className='system-menu-list-item'
-                            onClick={() => setMenuSystem(prev => prev === s.split('|')[1] ? "All" : s.split('|')[1])}>
-                            <img className={menu_System === s.split('|')[1] ? "active" : ""} src={assets.system} alt="" />
+                            // onClick={() => setMenuSystem(prev => prev === s.split('|')[1] ? "All" : s.split('|')[1])}>
+                            onClick={() => getInputData(number_of_systems.length,spreadsheet_id[0],s)}>
+                            <img className={menu_System === s.split('|')[1] ? "active" : ""}  src={assets.system} alt="" />
                             <p>{s.split('|')[1]}</p>
                         </div>
                         )
@@ -52,6 +81,9 @@ const SystemMenuBar = () => {
                 
         }     
         </div>
+        
+
+        </>
     )
 
 }

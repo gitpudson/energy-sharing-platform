@@ -5,9 +5,10 @@
     align-items: center;
     gap: 100px;
     text-align: center;
-    /* margin: 20px 0px; */
-    margin-top: 10px;
+    margin: 20px 0px;
+    /* margin-top: 10px; */
     /* overflow-x: scroll; */
+    /* height: 180px; */
     
 }
 .system-menu-list-item img:hover{
